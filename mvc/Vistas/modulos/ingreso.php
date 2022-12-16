@@ -10,6 +10,19 @@
 		<input type="submit" value="Ingresar">
 
 </form>
+
+<h2>Cuentas</h2>
+<h4>
+	Usuario:Administrador 
+	<br>
+	Contraseña: Password123!
+<br>
+	Usuario: Bibliotecario
+	<br>
+	Contraseña: Biblioteca123!
+</h4>
+(**SI diferencia Mayusculas**)
+
 <?php
 	$ingreso = new AdminC();
 	$ingreso -> IngresoC();
