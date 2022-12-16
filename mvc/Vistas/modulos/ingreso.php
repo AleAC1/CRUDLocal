@@ -22,6 +22,7 @@
 	Contraseña: Biblioteca123!
 	<br>
 </h4>
+<br>
 (**SI diferencia Mayusculas**)
 
 <?php
